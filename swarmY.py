@@ -1,7 +1,7 @@
 '''
-This program was written for admitted students visiting weekend. The swarm displayes Yale's Y. 
+This program was written for admitted students visiting weekend. The swarm displayes Yale's Y.
 IMPORTANT:
-- Always set up the crazy flies in numerical order, left to right, spaced 40cm apart. 
+- Always set up the crazy flies in numerical order, left to right, spaced 40cm apart.
 
 Written by Cameron Lerch on 03.06.22 and last updated on 03.06.22
 '''
@@ -14,10 +14,10 @@ from cflib.crazyflie.swarm import Swarm
 
 # URIs for the swarm, change the last digit to match the crazyflies you are using.
 URI0 = 'radio://0/80/2M/E7E7E7E7E8'
-URI1 = 'radio://0/80/2M/E7E7E7E7E1'
+URI1 = 'radio://0/80/2M/E7E7E7E7E0'
 URI2 = 'radio://0/80/2M/E7E7E7E7E9'
 URI3 = 'radio://0/80/2M/E7E7E7E7E3'
-URI4 = 'radio://0/80/2M/E7E7E7E7E4'
+URI4 = 'radio://0/80/2M/E7E7E7E7E2'
 URI5 = 'radio://0/80/2M/E7E7E7E7E7'
 URI6 = 'radio://0/80/2M/E7E7E7E7E6'
 
@@ -28,7 +28,7 @@ z5 = 0.7
 z3 = 1.0
 z4 = 1.3
 
-t1 = 3.0
+t1 = 5.0
 t2 = 15.0
 t3 = 3.0
 

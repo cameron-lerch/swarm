@@ -5,7 +5,7 @@ import cflib.crtp
 from cflib.crazyflie import Crazyflie
 from cflib.crazyflie.syncCrazyflie import SyncCrazyflie
 
-uri = 'radio://0/80/2M/E7E7E7E7E6'
+uri = 'radio://0/80/2M/E7E7E7E7E2'
 
 def simple_connect():
 
