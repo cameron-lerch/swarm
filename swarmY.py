@@ -13,13 +13,13 @@ from cflib.crazyflie.swarm import CachedCfFactory
 from cflib.crazyflie.swarm import Swarm
 
 # URIs for the swarm, change the last digit to match the crazyflies you are using.
-URI0 = 'radio://0/80/2M/E7E7E7E7E8'
-URI1 = 'radio://0/80/2M/E7E7E7E7E0'
-URI2 = 'radio://0/80/2M/E7E7E7E7E9'
+URI0 = 'radio://0/80/2M/E7E7E7E7E0'
+URI1 = 'radio://0/80/2M/E7E7E7E7E1'
+URI2 = 'radio://0/80/2M/E7E7E7E7E2'
 URI3 = 'radio://0/80/2M/E7E7E7E7E3'
-URI4 = 'radio://0/80/2M/E7E7E7E7E2'
-URI5 = 'radio://0/80/2M/E7E7E7E7E7'
-URI6 = 'radio://0/80/2M/E7E7E7E7E6'
+URI4 = 'radio://0/80/2M/E7E7E7E7E4'
+URI5 = 'radio://0/80/2M/E7E7E7E7E6'
+URI6 = 'radio://0/80/2M/E7E7E7E7E7'
 
 z0 = 0.2
 z1 = 0.2
@@ -28,7 +28,7 @@ z5 = 0.7
 z3 = 1.0
 z4 = 1.3
 
-t1 = 5.0
+t1 = 3.0
 t2 = 15.0
 t3 = 3.0
 
