@@ -16,10 +16,10 @@ from cflib.crazyflie.swarm import Swarm
 URI0 = 'radio://0/80/2M/E7E7E7E7E0'
 URI1 = 'radio://0/80/2M/E7E7E7E7E1'
 URI2 = 'radio://0/80/2M/E7E7E7E7E2'
-URI3 = 'radio://0/80/2M/E7E7E7E7E3'
+URI3 = 'radio://0/80/2M/E7E7E7E7E8'
 URI4 = 'radio://0/80/2M/E7E7E7E7E4'
-URI5 = 'radio://0/80/2M/E7E7E7E7E6'
-URI6 = 'radio://0/80/2M/E7E7E7E7E7'
+URI5 = 'radio://0/80/2M/E7E7E7E7E9'
+URI6 = 'radio://0/80/2M/E7E7E7E7E6'
 
 z0 = 0.2
 z1 = 0.2
@@ -92,7 +92,7 @@ uris = {
     URI3,
     URI4,
     URI5,
-    URI6
+    URI6,
 }
 
 
